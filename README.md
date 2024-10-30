@@ -6,7 +6,7 @@
 
 ## **Примененные технологии**
 
-* Linux (Astra Linux), Bash, SSH, SOCKS, SQUID, NFS, Samba
+* Linux (Astra Linux), Bash, Vim, SSH, SOCKS, SQUID, NFS, Samba
 
 ---
 
